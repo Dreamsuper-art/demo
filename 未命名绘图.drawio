@@ -39,12 +39,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-119" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;简单模式&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OV1x1ojsSrQZhPFde084-88">
+          <mxGeometry x="0.0748" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OV1x1ojsSrQZhPFde084-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-5" target="OV1x1ojsSrQZhPFde084-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="399" y="340" />
               <mxPoint x="490" y="340" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-120" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;困难模式&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OV1x1ojsSrQZhPFde084-89">
+          <mxGeometry x="0.0405" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OV1x1ojsSrQZhPFde084-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;选择操作&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -97,8 +107,18 @@
         <mxCell id="OV1x1ojsSrQZhPFde084-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-43" target="OV1x1ojsSrQZhPFde084-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-117" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;游戏胜利&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OV1x1ojsSrQZhPFde084-83">
+          <mxGeometry x="-0.3141" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OV1x1ojsSrQZhPFde084-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-43" target="OV1x1ojsSrQZhPFde084-49">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-118" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;游戏结束&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OV1x1ojsSrQZhPFde084-84">
+          <mxGeometry x="-0.4377" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OV1x1ojsSrQZhPFde084-43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;游戏状态&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="501.25" y="540" width="95" height="80" as="geometry" />
