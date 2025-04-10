@@ -1,9 +1,132 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.8">
   <diagram name="第 1 页" id="-sqeIsyK_714Ufd3BeM6">
-    <mxGraphModel>
+    <mxGraphModel dx="1764" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OV1x1ojsSrQZhPFde084-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-1" target="OV1x1ojsSrQZhPFde084-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-2" target="OV1x1ojsSrQZhPFde084-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;游戏界面初始化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="110" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-4" target="OV1x1ojsSrQZhPFde084-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;游戏菜单选择&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="180" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-5" target="OV1x1ojsSrQZhPFde084-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="466" y="270" />
+              <mxPoint x="466" y="230" />
+              <mxPoint x="549" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-5" target="OV1x1ojsSrQZhPFde084-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-5" target="OV1x1ojsSrQZhPFde084-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;选择操作&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="250" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-10" target="OV1x1ojsSrQZhPFde084-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;设置简单模式&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-11" target="OV1x1ojsSrQZhPFde084-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;设置困难模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="360" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-19" target="OV1x1ojsSrQZhPFde084-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;游戏操作&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="430" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-26" target="OV1x1ojsSrQZhPFde084-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;游戏进行中&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="565" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-29" target="OV1x1ojsSrQZhPFde084-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;重新选择&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="77.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="346.5" y="600" as="sourcePoint" />
+            <mxPoint x="346.5" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-43" target="OV1x1ojsSrQZhPFde084-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-43" target="OV1x1ojsSrQZhPFde084-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;游戏状态&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501.25" y="540" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-48" target="OV1x1ojsSrQZhPFde084-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;胜利界面&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="650" width="77.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-49" target="OV1x1ojsSrQZhPFde084-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结束界面&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="650" width="77.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-72" target="OV1x1ojsSrQZhPFde084-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="750" />
+              <mxPoint x="750" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-87" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;返回主菜单&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OV1x1ojsSrQZhPFde084-86">
+          <mxGeometry x="-0.1237" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OV1x1ojsSrQZhPFde084-72" target="OV1x1ojsSrQZhPFde084-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="730" />
+              <mxPoint x="720" y="510" />
+              <mxPoint x="400" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-94" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;继续游戏&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OV1x1ojsSrQZhPFde084-93">
+          <mxGeometry x="0.4975" y="-1" relative="1" as="geometry">
+            <mxPoint x="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OV1x1ojsSrQZhPFde084-72" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结束选项&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="690" width="95" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
